@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kienmatu
 - 👀 I’m interested in coding and learning about history
-- 🌱 I’m currently learning at FPT University
 - 📫 How to reach me fb.com/kien.matu.7
 
 <!---
